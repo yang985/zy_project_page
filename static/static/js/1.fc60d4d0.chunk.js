@@ -1,0 +1,2 @@
+(this.webpackJsonpzy_project=this.webpackJsonpzy_project||[]).push([[1],{82:function(t,e,n){"use strict";n.r(e);var c=n(40),r=n(41),a=n(43),i=n(42),p=n(0),o=n.n(p),s=n(13),u=function(t){Object(a.a)(n,t);var e=Object(i.a)(n);function n(){return Object(c.a)(this,n),e.apply(this,arguments)}return Object(r.a)(n,[{key:"render",value:function(){return Object(s.jsx)("div",{children:"shopping"})}}]),n}(o.a.Component);e.default=u}}]);
+//# sourceMappingURL=1.fc60d4d0.chunk.js.map
